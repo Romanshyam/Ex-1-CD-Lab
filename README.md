@@ -68,15 +68,6 @@ int main()
 ```
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
 # OUTPUT
 ## SYMBOL FOUND:
 ![image](https://github.com/user-attachments/assets/1a51ff3f-6e8b-4d7a-bb68-ed9066d8299d)
